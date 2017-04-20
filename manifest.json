@@ -1,0 +1,9 @@
+{
+  "name": "Job Pro",
+  "version": "0.1",
+  "description": "XXOO",
+  "devtools_page": "index.html",
+  "permissions": ["https://*/*", "http://*/*"],
+  "background": { "scripts": ["background.js"] },
+  "manifest_version": 2
+}
